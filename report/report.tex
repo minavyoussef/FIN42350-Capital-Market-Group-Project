@@ -18,6 +18,7 @@
 \usepackage{enumitem}
 \usepackage{hyperref}
 \usepackage{microtype}
+\usepackage{qrcode}
 
 \hypersetup{
   colorlinks=true,
@@ -46,14 +47,79 @@
 \author{Student Name: Mina Youssef\\Student Number: 14200381}
 
 \begin{document}
+\hypersetup{pageanchor=false}
 
-\maketitle
+\begin{titlepage}
+  \thispagestyle{empty}
+  \centering
+  \vspace*{0.8cm}
+
+  \includegraphics[width=0.76\textwidth]{ucd-smurfit-logo.png}
+
+  \vfill
+
+  {\color{blue!50!black}\rule{0.82\textwidth}{1.5pt}}\\[1.2cm]
+  {\Huge\bfseries FIN42350 Capital Markets\\[0.35cm] Group Project\par}
+  \vspace{0.9cm}
+  {\LARGE A Systematic Framework for Client-Specific\\[0.25cm] Portfolio Construction and Risk Analysis\par}
+  \vspace{1.2cm}
+  {\color{blue!50!black}\rule{0.82\textwidth}{1.5pt}}
+
+  \vfill
+
+  {\Large\textbf{Student Name:} Mina Youssef\par}
+  \vspace{0.3cm}
+  {\Large\textbf{Student Number:} 14200381\par}
+
+  \vfill
+
+  {\large UCD Michael Smurfit Graduate Business School\par}
+  \vspace{0.2cm}
+  {\large University College Dublin\par}
+  \vspace{0.5cm}
+  {\large October 2026\par}
+\end{titlepage}
+
+\clearpage
+\thispagestyle{empty}
+\begin{center}
+  \vspace*{1cm}
+  {\Huge\bfseries Project Resources\par}
+  \vspace{0.4cm}
+  {\large Scan the QR codes to access the live application and complete project repository.\par}
+
+  \vspace{1.3cm}
+  {\Large\bfseries Live Streamlit Application\par}
+  \vspace{0.45cm}
+  {\color{black}\qrcode[height=4.5cm]{https://fin42350-capital-market-group-project.streamlit.app}}
+  \vspace{0.35cm}
+
+  \href{https://fin42350-capital-market-group-project.streamlit.app}{\texttt{fin42350-capital-market-group-project.streamlit.app}}
+
+  \vspace{1.2cm}
+  {\Large\bfseries GitHub Repository\par}
+  \vspace{0.45cm}
+  {\color{black}\qrcode[height=4.5cm]{https://github.com/minavyoussef/FIN42350-Capital-Market-Group-Project}}
+  \vspace{0.35cm}
+
+  \href{https://github.com/minavyoussef/FIN42350-Capital-Market-Group-Project}{\texttt{github.com/minavyoussef/FIN42350-Capital-Market-Group-Project}}
+\end{center}
+
+\clearpage
+\hypersetup{pageanchor=true}
+\pagenumbering{roman}
+\begingroup
+  \footnotesize
+  \setlength{\parskip}{0pt}
+  \tableofcontents
+\endgroup
+
+\clearpage
+\pagenumbering{arabic}
 
 \begin{abstract}
   This report develops a systematic framework for constructing a multi-asset portfolio based on an investor specific preference. The frame has been designed into five phases using in-sample historical data for portfolio allocation and out-of-sample data for the optimised portfolio performance evaluation. In addition, we use Monte Carlo simulation future expected return under three different investor profiles, risky, balanced, and conservative with SPY as a proxy for market benchmark.
 \end{abstract}
-
-\tableofcontents
 \newpage
 
 % Target: approximately 3,000 words, excluding appendices.
