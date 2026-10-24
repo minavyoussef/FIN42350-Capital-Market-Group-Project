@@ -1,0 +1,3 @@
+strategy,median_terminal_wealth_euro,terminal_wealth_p05_euro,terminal_wealth_p95_euro,probability_of_loss
+Optimized portfolio,1137087.5508562515,884695.0407650364,1459735.1054810008,0.196
+S&P 500 (SPY),1165363.2664802442,818803.362652936,1670336.900087021,0.2388

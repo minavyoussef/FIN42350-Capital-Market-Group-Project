@@ -1,0 +1,12 @@
+ticker,display_name,instrument_type,asset_class,asset_type,geography,optimal_weight,allocation_euro
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,ETF,Cash,Treasury bills,United States,0.17246835443037975,172468.35443037975
+SMH,VanEck Semiconductor ETF,ETF,Equity,Semiconductors,Global,0.15,150000.0
+SCHP,Schwab US TIPS ETF,ETF,Fixed Income,Inflation-linked bonds,United States,0.15,150000.0
+XLRE,Real Estate Select Sector SPDR Fund,ETF,Real Estate,Listed real estate,United States,0.15,150000.0
+ARGT,Global X MSCI Argentina ETF,ETF,Equity,Country equity,Argentina,0.08101265822784803,81012.65822784803
+SLV,iShares Silver Trust,ETF,Commodity,Silver,Global,0.0764160518578145,76416.0518578145
+TIP,iShares TIPS Bond ETF,ETF,Fixed Income,Inflation-linked bonds,United States,0.06987606608008025,69876.06608008024
+IAU,iShares Gold Trust,ETF,Commodity,Gold,Global,0.05178107833491825,51781.078334918246
+VNQ,Vanguard Real Estate ETF,ETF,Real Estate,Listed real estate,United States,0.04936708860759371,49367.08860759371
+BNO,United States Brent Oil Fund,ETF,Commodity,Brent crude oil,Global,0.04585350271865868,45853.50271865868
+VGSH,Vanguard Short-Term Treasury ETF,ETF,Fixed Income,Short government bonds,United States,0.0032251997427039246,3225.1997427039246

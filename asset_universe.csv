@@ -1,0 +1,135 @@
+ticker,display_name,instrument_type,asset_class,asset_subclass,geography
+SPY,SPDR S&P 500 ETF Trust,etf,Equity,US large blend,United States
+IVV,iShares Core S&P 500 ETF,etf,Equity,US large blend,United States
+VOO,Vanguard S&P 500 ETF,etf,Equity,US large blend,United States
+VTI,Vanguard Total Stock Market ETF,etf,Equity,US total market,United States
+RSP,Invesco S&P 500 Equal Weight ETF,etf,Equity,US large equal weight,United States
+QQQ,Invesco QQQ Trust,etf,Equity,US large growth,United States
+DIA,SPDR Dow Jones Industrial Average ETF,etf,Equity,US large blend,United States
+IWM,iShares Russell 2000 ETF,etf,Equity,US small blend,United States
+VTWO,Vanguard Russell 2000 ETF,etf,Equity,US small blend,United States
+IWB,iShares Russell 1000 ETF,etf,Equity,US large blend,United States
+IWF,iShares Russell 1000 Growth ETF,etf,Equity,US large growth,United States
+IWD,iShares Russell 1000 Value ETF,etf,Equity,US large value,United States
+VUG,Vanguard Growth ETF,etf,Equity,US large growth,United States
+VTV,Vanguard Value ETF,etf,Equity,US large value,United States
+SCHB,Schwab US Broad Market ETF,etf,Equity,US broad market,United States
+SCHG,Schwab US Large-Cap Growth ETF,etf,Equity,US large growth,United States
+SCHV,Schwab US Large-Cap Value ETF,etf,Equity,US large value,United States
+QUAL,iShares MSCI USA Quality Factor ETF,etf,Equity,US quality factor,United States
+USMV,iShares MSCI USA Min Vol Factor ETF,etf,Equity,US minimum volatility,United States
+MTUM,iShares MSCI USA Momentum Factor ETF,etf,Equity,US momentum factor,United States
+VLUE,iShares MSCI USA Value Factor ETF,etf,Equity,US value factor,United States
+SIZE,iShares MSCI USA Size Factor ETF,etf,Equity,US size factor,United States
+VIG,Vanguard Dividend Appreciation ETF,etf,Equity,US dividend growth,United States
+SCHD,Schwab US Dividend Equity ETF,etf,Equity,US dividend equity,United States
+XLK,Technology Select Sector SPDR Fund,etf,Equity,Technology sector,United States
+XLF,Financial Select Sector SPDR Fund,etf,Equity,Financial sector,United States
+XLV,Health Care Select Sector SPDR Fund,etf,Equity,Health care sector,United States
+XLY,Consumer Discretionary Select Sector SPDR Fund,etf,Equity,Consumer discretionary sector,United States
+XLP,Consumer Staples Select Sector SPDR Fund,etf,Equity,Consumer staples sector,United States
+XLE,Energy Select Sector SPDR Fund,etf,Equity,Energy sector,United States
+XLI,Industrial Select Sector SPDR Fund,etf,Equity,Industrials sector,United States
+XLB,Materials Select Sector SPDR Fund,etf,Equity,Materials sector,United States
+XLU,Utilities Select Sector SPDR Fund,etf,Equity,Utilities sector,United States
+XLRE,Real Estate Select Sector SPDR Fund,etf,Real estate,Listed real estate,United States
+XLC,Communication Services Select Sector SPDR Fund,etf,Equity,Communication services sector,United States
+SMH,VanEck Semiconductor ETF,etf,Equity,Semiconductors,Global
+SOXX,iShares Semiconductor ETF,etf,Equity,Semiconductors,United States
+XBI,SPDR S&P Biotech ETF,etf,Equity,Biotechnology,United States
+IBB,iShares Biotechnology ETF,etf,Equity,Biotechnology,United States
+ITA,iShares US Aerospace and Defense ETF,etf,Equity,Aerospace and defense,United States
+XRT,SPDR S&P Retail ETF,etf,Equity,Retail industry,United States
+KRE,SPDR S&P Regional Banking ETF,etf,Equity,Regional banks,United States
+IYR,iShares US Real Estate ETF,etf,Real estate,Listed real estate,United States
+VNQ,Vanguard Real Estate ETF,etf,Real estate,Listed real estate,United States
+TAN,Invesco Solar ETF,etf,Equity,Clean energy solar,Global
+ICLN,iShares Global Clean Energy ETF,etf,Equity,Clean energy,Global
+BOTZ,Global X Robotics and Artificial Intelligence ETF,etf,Equity,Robotics and AI,Global
+ARKK,ARK Innovation ETF,etf,Equity,Disruptive innovation,United States
+CIBR,First Trust Nasdaq Cybersecurity ETF,etf,Equity,Cybersecurity,Global
+VXUS,Vanguard Total International Stock ETF,etf,Equity,International ex US,Global ex US
+VEA,Vanguard FTSE Developed Markets ETF,etf,Equity,Developed markets,Developed ex US
+VWO,Vanguard FTSE Emerging Markets ETF,etf,Equity,Emerging markets,Emerging markets
+IEFA,iShares Core MSCI EAFE ETF,etf,Equity,Developed markets,Developed ex US
+IEMG,iShares Core MSCI Emerging Markets ETF,etf,Equity,Emerging markets,Emerging markets
+EFA,iShares MSCI EAFE ETF,etf,Equity,Developed markets,Developed ex US
+EEM,iShares MSCI Emerging Markets ETF,etf,Equity,Emerging markets,Emerging markets
+ACWI,iShares MSCI ACWI ETF,etf,Equity,Global equity,Global
+VT,Vanguard Total World Stock ETF,etf,Equity,Global equity,Global
+EWJ,iShares MSCI Japan ETF,etf,Equity,Country equity,Japan
+EWZ,iShares MSCI Brazil ETF,etf,Equity,Country equity,Brazil
+INDA,iShares MSCI India ETF,etf,Equity,Country equity,India
+MCHI,iShares MSCI China ETF,etf,Equity,Country equity,China
+FXI,iShares China Large-Cap ETF,etf,Equity,Country equity,China
+EWG,iShares MSCI Germany ETF,etf,Equity,Country equity,Germany
+EWU,iShares MSCI United Kingdom ETF,etf,Equity,Country equity,United Kingdom
+EWQ,iShares MSCI France ETF,etf,Equity,Country equity,France
+EWI,iShares MSCI Italy ETF,etf,Equity,Country equity,Italy
+EWP,iShares MSCI Spain ETF,etf,Equity,Country equity,Spain
+EWC,iShares MSCI Canada ETF,etf,Equity,Country equity,Canada
+EWA,iShares MSCI Australia ETF,etf,Equity,Country equity,Australia
+EWH,iShares MSCI Hong Kong ETF,etf,Equity,Country equity,Hong Kong
+EWS,iShares MSCI Singapore ETF,etf,Equity,Country equity,Singapore
+EWT,iShares MSCI Taiwan ETF,etf,Equity,Country equity,Taiwan
+EWY,iShares MSCI South Korea ETF,etf,Equity,Country equity,South Korea
+EWW,iShares MSCI Mexico ETF,etf,Equity,Country equity,Mexico
+EZA,iShares MSCI South Africa ETF,etf,Equity,Country equity,South Africa
+TUR,iShares MSCI Turkey ETF,etf,Equity,Country equity,Turkey
+THD,iShares MSCI Thailand ETF,etf,Equity,Country equity,Thailand
+EIDO,iShares MSCI Indonesia ETF,etf,Equity,Country equity,Indonesia
+EPOL,iShares MSCI Poland ETF,etf,Equity,Country equity,Poland
+GREK,Global X MSCI Greece ETF,etf,Equity,Country equity,Greece
+ARGT,Global X MSCI Argentina ETF,etf,Equity,Country equity,Argentina
+KSA,iShares MSCI Saudi Arabia ETF,etf,Equity,Country equity,Saudi Arabia
+UAE,iShares MSCI UAE ETF,etf,Equity,Country equity,United Arab Emirates
+AGG,iShares Core US Aggregate Bond ETF,etf,Fixed income,Aggregate bonds,United States
+BND,Vanguard Total Bond Market ETF,etf,Fixed income,Aggregate bonds,United States
+BNDX,Vanguard Total International Bond ETF,etf,Fixed income,International aggregate bonds,Global ex US
+TLT,iShares 20 Plus Year Treasury Bond ETF,etf,Fixed income,Long government bonds,United States
+IEF,iShares 7-10 Year Treasury Bond ETF,etf,Fixed income,Intermediate government bonds,United States
+SHY,iShares 1-3 Year Treasury Bond ETF,etf,Fixed income,Short government bonds,United States
+VGSH,Vanguard Short-Term Treasury ETF,etf,Fixed income,Short government bonds,United States
+VGIT,Vanguard Intermediate-Term Treasury ETF,etf,Fixed income,Intermediate government bonds,United States
+VGLT,Vanguard Long-Term Treasury ETF,etf,Fixed income,Long government bonds,United States
+GOVT,iShares US Treasury Bond ETF,etf,Fixed income,Government bonds,United States
+TIP,iShares TIPS Bond ETF,etf,Fixed income,Inflation-linked bonds,United States
+SCHP,Schwab US TIPS ETF,etf,Fixed income,Inflation-linked bonds,United States
+LQD,iShares iBoxx Investment Grade Corporate Bond ETF,etf,Fixed income,Investment grade corporate,United States
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,etf,Fixed income,Investment grade corporate,United States
+VCSH,Vanguard Short-Term Corporate Bond ETF,etf,Fixed income,Investment grade corporate,United States
+HYG,iShares iBoxx High Yield Corporate Bond ETF,etf,Fixed income,High yield corporate,United States
+JNK,SPDR Bloomberg High Yield Bond ETF,etf,Fixed income,High yield corporate,United States
+EMB,iShares JPMorgan USD Emerging Markets Bond ETF,etf,Fixed income,Emerging market sovereign,Emerging markets
+MUB,iShares National Muni Bond ETF,etf,Fixed income,Municipal bonds,United States
+BIL,SPDR Bloomberg 1-3 Month T-Bill ETF,etf,Cash,Treasury bills,United States
+GLD,SPDR Gold Shares,etf,Commodity,Gold,Global
+IAU,iShares Gold Trust,etf,Commodity,Gold,Global
+SLV,iShares Silver Trust,etf,Commodity,Silver,Global
+PPLT,abrdn Physical Platinum Shares ETF,etf,Commodity,Platinum,Global
+PALL,abrdn Physical Palladium Shares ETF,etf,Commodity,Palladium,Global
+DBC,Invesco DB Commodity Index Tracking Fund,etf,Commodity,Broad commodities,Global
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy ETF,etf,Commodity,Broad commodities,Global
+GSG,iShares S&P GSCI Commodity-Indexed Trust,etf,Commodity,Broad commodities,Global
+USO,United States Oil Fund,etf,Commodity,Crude oil,Global
+BNO,United States Brent Oil Fund,etf,Commodity,Brent crude oil,Global
+UNG,United States Natural Gas Fund,etf,Commodity,Natural gas,Global
+DBA,Invesco DB Agriculture Fund,etf,Commodity,Agriculture,Global
+CORN,Teucrium Corn Fund,etf,Commodity,Corn,Global
+WEAT,Teucrium Wheat Fund,etf,Commodity,Wheat,Global
+CPER,United States Copper Index Fund,etf,Commodity,Copper,Global
+GBTC,Grayscale Bitcoin Trust ETF,etf,Crypto asset,Spot Bitcoin,Global
+ETHE,Grayscale Ethereum Trust ETF,etf,Crypto asset,Spot Ether,Global
+VXX,iPath Series B S&P 500 VIX Short-Term Futures ETN,etn,Volatility,Long volatility,United States
+UVXY,ProShares Ultra VIX Short-Term Futures ETF,etf,Volatility,Leveraged long volatility,United States
+SVXY,ProShares Short VIX Short-Term Futures ETF,etf,Volatility,Short volatility,United States
+VIXY,ProShares VIX Short-Term Futures ETF,etf,Volatility,Long volatility,United States
+^VIX,CBOE Volatility Index,index,Volatility,Implied volatility index,United States
+UUP,Invesco DB US Dollar Index Bullish Fund,etf,Currency,US dollar,United States
+FXE,Invesco CurrencyShares Euro Trust,etf,Currency,Euro,Eurozone
+FXY,Invesco CurrencyShares Japanese Yen Trust,etf,Currency,Japanese yen,Japan
+FXB,Invesco CurrencyShares British Pound Sterling Trust,etf,Currency,British pound,United Kingdom
+FXA,Invesco CurrencyShares Australian Dollar Trust,etf,Currency,Australian dollar,Australia
+FXC,Invesco CurrencyShares Canadian Dollar Trust,etf,Currency,Canadian dollar,Canada
+CEW,WisdomTree Emerging Currency Strategy Fund,etf,Currency,Emerging market currencies,Emerging markets
+DBMF,iMGP DBi Managed Futures Strategy ETF,etf,Alternatives,Managed futures,Global
